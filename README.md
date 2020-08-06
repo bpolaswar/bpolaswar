@@ -1,9 +1,8 @@
 ## I'm Bhumesh Polaswar  
 - :student:I'm currently pursuing MCA From Pune University  
 - :house:Currently Working on Java language and Spring Framework  
-- :arrow_right:Ask me about Java, Spring Framework and Git  
+- :arrow_right:Ask me about Java, Spring Framework,HTML and Git  
 - :hash:I’m looking to collaborate on anything related to tech 
-- 💬 Ask me about C, C++, Java, Python, PHP, HTML, CSS, etc.
 
 ## Connect with me on::point_down:
 
