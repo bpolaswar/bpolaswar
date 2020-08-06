@@ -14,9 +14,6 @@
 
 <!-----GitHub Octocat------>
 
-<img src = "https://lh6.googleusercontent.com/proxy/iwhKOv3tfirUNTArPiI1UTKw8gbdyY5-vElZJSDkOoQfGTVg023Jn-7sFAmUR3Sce8IKQC0zG4mus0u-mM7hyVLsYis4CufWhmaCzg" align = "right" width = 150, height = 150>
-</br>
-
 ### Languages and Tools:
 
 <!-----Languages and Tools------>
@@ -32,7 +29,7 @@
 
 <!-----GitHub Stats------>
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Apk23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=bpolaswar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!-----Projects------>
 
