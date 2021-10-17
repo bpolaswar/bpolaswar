@@ -4,7 +4,7 @@
 - :arrow_right:Ask me about Java, Spring Framework,HTML and Git  
 - :hash:I’m looking to collaborate on anything related to tech 
 
-(https://github.com/bpolaswar/bpolaswar.github.io/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/bpolaswar/bpolaswar.github.io/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me on::point_down:
 
